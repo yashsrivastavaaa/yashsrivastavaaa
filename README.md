@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @yashsrivastavaaa
+          Hello World, I'm YASH SRIVASTAVA
+
+
 - 👀 I’m interested in Artifical Intelligence
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m currently pursuing B.Tech
