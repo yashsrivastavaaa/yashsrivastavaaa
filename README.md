@@ -11,10 +11,13 @@
 <br>
 <h2 align="center">My Projects 💻 </h2>
 
-|<h3>Project Name</h3>| | <h3>Language Used</h3> | <h3>Status</h3> | <h3>Link</h3> |
-|-----------|-----------|-----------|-----------|
+| <h3>Project Name</h3>| | <h3 align = "center">Language Used</h3> | <h3>Status</h3> | <h3>Link</h3> | 
+|-----------|-----------|-----------|-----------|-----------|
+| Constitution of India | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | Python | In Progress | None |
+| Scientific Calculator | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | Python | Completed | [View](https://github.com/yashsrivastavaaa/Scientific-Calculator-Python) |
 
-| Scientific Calculator | <img src =""
+
+<br>
 
 <!---
 yashsrivastavaaa/yashsrivastavaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
