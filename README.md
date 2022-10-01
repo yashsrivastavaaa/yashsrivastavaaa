@@ -13,8 +13,8 @@
 
 | <h3>Project Name</h3>| | <h3 align = "center">Language Used</h3> | <h3>Status</h3> | <h3>Progress</h3>| <h3>Link</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| Constitution of India | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | Python | In Progress | 70% | None |
-| Scientific Calculator | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | Python | Completed | 100% | [View](https://github.com/yashsrivastavaaa/Scientific-Calculator-Python) |
+| <h6 align = "center"> Constitution of India </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python </h6> | <h6 align = "center"> In Progress </h6> | <h6 align = "center"> 70% </h6> | <h6 align = "center"> None </h6> |
+|<h6 align = "center"> Scientific Calculator </h6>| <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python </h6> |<h6 align = "center"> Completed </h6>| <h6 align = "center"> 100% </h6> | [View](https://github.com/yashsrivastavaaa/Scientific-Calculator-Python) |
 
 
 <br>
