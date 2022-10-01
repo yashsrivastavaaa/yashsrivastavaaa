@@ -1,4 +1,4 @@
-          Hello World, I'm YASH SRIVASTAVA
+          **Hello World, I'm YASH SRIVASTAVA**
 
 
 - 👀 I’m interested in Artifical Intelligence
