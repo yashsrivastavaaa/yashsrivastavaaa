@@ -1,4 +1,5 @@
-          **Hello World, I'm YASH SRIVASTAVA**
+
+<h1 align="center"> Hello Everyone, I am YASH SRIVASTAVA</h1>
 
 
 - 👀 I’m interested in Artifical Intelligence
