@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello Everyone <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/hi.gif" width="30"/>, I am YASH SRIVASTAVA</h1>
+<h1 align="center"> Hi👋, I am YASH SRIVASTAVA</h1>
 
 
 - 👀 I’m interested in Artifical Intelligence
