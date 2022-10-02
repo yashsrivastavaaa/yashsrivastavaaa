@@ -17,6 +17,11 @@
 |<h6 align = "center"> Scientific Calculator </h6>| <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python </h6> |<h6 align = "center"> Completed </h6>| <h6 align = "center"> 100% </h6> | [View](https://github.com/yashsrivastavaaa/Scientific-Calculator-Python) | <h6> Here is "Scientific Calculator". You can perform Basic and Advanced Calculations using this. This Project was Created by me when I was in Class 12th. </h6> |
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yashsrivastavaaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+
 
 
 <br>
