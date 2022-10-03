@@ -5,7 +5,7 @@
 - 👀 I’m interested in Artifical Intelligence.
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m currently pursuing B.Tech (CS-AI).
-- 📫 Email ID- yashsrivns@gmail.com.
+- 📫 Get in Touch - yashsrivns@gmail.com.
 
 
 <br>
@@ -31,6 +31,6 @@
 
 
 <h4>⌚ B.Tech (CS-AI) at GL Bajaj Instituite of Technology and Management (2022-26) .</h4>
-<h4>🏆 Got 89.8% in 12th Boards (CBSE). [2022 Passout] </h4>
-<h4>🏆 Got 93.33% in PCM. </h4>
+<h4>🏆 Got 89.8% in 12th Boards (CBSE). </h4>
+<h4>🏆 Got 93.33% in PCM [2K22 Passout] . </h4>
 <h4>⌛ Class 10th & 12th from Vanita Public School (Varanasi)</h4>
