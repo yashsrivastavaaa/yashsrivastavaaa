@@ -27,7 +27,7 @@
 ## 📚 My Education
 
 
-<h4>⌚ B.Tech (CS-AI) at GL Bajaj Instituite of Technology and Management (2022-26) .</h4>
+<h4>⌚ B.Tech (CSE-AI) at GL Bajaj Instituite of Technology and Management (2022-26) .</h4>
 <h4>🏆 Got 89.8% in 12th Boards (CBSE). </h4>
 <h4>🏆 Got 93.33% in PCM [2K22 Passout] . </h4>
 <h4>⌛ Class 10th & 12th from Vanita Public School (Varanasi)</h4>
