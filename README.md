@@ -9,7 +9,20 @@
 
 
 <br>
+
+## 📚 My Education
+
+
+<h4>⌚ B.Tech (CSE-AI) at GL Bajaj Institute of Technology and Management (2022-26) .</h4>
+<h4>🏆 Got 89.8% in 12th Boards (CBSE). </h4>
+<h4>🏆 Got 93.33% in PCM [2K22 Passout] . </h4>
+<h4>⌛ Class 10th & 12th from Vanita Public School (Varanasi)</h4>
+<br>
 <h2 align="center">My Projects 💻 </h2>
+<br>
+
+
+
 
 | <h3>Project Name</h3> |<h3>      </h3> |<h3>Language Used</h3> | <h3>Status</h3> | <h3>Progress</h3> | <h3>Link</h3> | <h3>Description</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
@@ -26,13 +39,4 @@
 
 
 
-<br>
 
-
-## 📚 My Education
-
-
-<h4>⌚ B.Tech (CSE-AI) at GL Bajaj Institute of Technology and Management (2022-26) .</h4>
-<h4>🏆 Got 89.8% in 12th Boards (CBSE). </h4>
-<h4>🏆 Got 93.33% in PCM [2K22 Passout] . </h4>
-<h4>⌛ Class 10th & 12th from Vanita Public School (Varanasi)</h4>
