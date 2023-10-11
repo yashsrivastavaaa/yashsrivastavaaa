@@ -18,23 +18,24 @@
 
 
 <br>
-<h2 align="center">My Projects 💻 </h2>
+
+<h2 align = "center">💻 Projects  </h2>
+
 <br>
 
+<h2>⚙️ Projects  </h2>
 
-
-
-| <h3>Project Name</h3> |<h3>      </h3> |<h3>Language Used</h3> | <h3>Status</h3> | <h3>Progress</h3> | <h3>Link</h3> |
+| <h3>Project Name</h3> | | <h3>Techstack</h3> | <h3>Status</h3> | <h3>Progess</h3> | <h3>Link</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| <h6 align = "center"> Quiz Game </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python</h6> | <h6 align = "center"> Completed </h6> | <h6 align = "center"> 100% </h6> | <h6 align = "center"> [View](https://github.com/yashsrivastavaaa/Quiz-Game/) </h6> |
-| <h6 align = "center"> Currency Converter 2.0 </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python</h6> | <h6 align = "center"> Completed </h6> | <h6 align = "center"> 100% </h6> | <h6 align = "center"> [View](https://github.com/yashsrivastavaaa/Currency-Calculator-2.0) </h6> |
-| <h6 align = "center"> BMI Calculator </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python</h6> | <h6 align = "center"> Completed </h6> | <h6 align = "center"> 100% </h6> | <h6 align = "center"> [View](https://github.com/yashsrivastavaaa/BMI-Calculator/) </h6> |
-| <h6 align = "center"> AyuCure </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python</h6> | <h6 align = "center"> Completed </h6> | <h6 align = "center"> 100% </h6> | <h6 align = "center"> [View](https://github.com/yashsrivastavaaa/AyuCure) </h6> | 
-| <h6 align = "center"> Currency Converter </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python</h6> | <h6 align = "center"> Completed </h6> | <h6 align = "center"> 100% </h6> | <h6 align = "center"> [View](https://github.com/yashsrivastavaaa/Currency-Converter) </h6> |
-| <h6 align = "center"> Constitution of India </h6> | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python</h6> | <h6 align = "center"> Completed </h6> | <h6 align = "center"> 100% </h6> | <h6 align = "center"> [View](https://github.com/yashsrivastavaaa/Constitution-of-India) </h6> |
-|<h6 align = "center"> Scientific Calculator </h6>| <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | <h6 align = "center"> Python </h6> |<h6 align = "center"> Completed </h6>| <h6 align = "center"> 100% </h6> | [View](https://github.com/yashsrivastavaaa/Scientific-Calculator-Python) | 
+|  Quiz Game  |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | ```       Python     ```| [Demo-PlayStore](https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek) | Sep 22 - Jan 23 |
+| Currency Converter 2.0 | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | ```       Python     ```| [Demo-PlayStore](https://play.google.com/store/apps/details?id=sleepometerbyamitmaity.example.sleepometer) | Jul 22 - Sep 22 |
+| BMI Calculator |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/>|```       Python     ```| [Demo-Drive](https://drive.google.com/file/d/1bSiO13LAU5NEyg6Hj9WSK1Sv1PNWO3a7/view) | Jan 22 - Mar 22 |
+| AyurCure |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/>|```       Python     ```| [Demo-PlayStore](https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker) | Jan 22 - Mar 22 |
+| Currency Convertor |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/>|```       Python     ``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=heritsm_heritagebyamit.example.heritsm_heritageofindia) | Oct 21 - Dec 21 |
+| Constitution of India |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/>| ```       Python     ``` | [Demo-Drive](https://drive.google.com/file/d/1kkgs7mT-mAAJ7DQxa7eJ-98J0oQBWRee/view) | Oct 21 - Dec 21 |
+| Scientific Calculator |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/>| ```       Python     ```| Demo-Drive | Mar 22 -Mar 22 |
 
-
+<br>
 
 
 
