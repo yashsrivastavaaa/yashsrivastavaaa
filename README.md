@@ -27,6 +27,7 @@
 
 | <h3>Project Name</h3> | | <h3>Techstack</h3> | <h3>Status</h3> | <h3>Progess</h3> | <h3>Link</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
+|  Love Calculator |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | ```      Python     ```| Completed | ```     100%     ```|[Source Code](https://github.com/yashsrivastavaaa/Love-Calculator)|
 |  Quiz Game  |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | ```      Python     ```| Completed | ```     100%     ```|[Source Code](https://github.com/yashsrivastavaaa/Quiz-Game/)|
 | Currency Converter 2.0 | <img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/> | ```      Python     ```| Completed | ```     100%     ``` |[Source Code](https://github.com/yashsrivastavaaa/Currency-Calculator-2.0)|
 | BMI Calculator |<img src="https://raw.githubusercontent.com/yashsrivastavaaa/yashsrivastavaaa/main/Images/images.jpg" alt="Rait" width="30" height="30"/>|```      Python     ```| Completed|  ```     100%     ``` |[Source Code](https://github.com/yashsrivastavaaa/BMI-Calculator/)|
