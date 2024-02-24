@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning Web Development and Java.
 - 💞️ I’m currently pursuing B.Tech (CSE-AI).
 - 📫 Get in Touch - yashsrivns@gmail.com.
 
