@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning Web Development and Java.
 - 💞️ I’m currently pursuing B.Tech (CSE-AI).
 - 📫 Get in Touch - yashsrivns@gmail.com.
+- 📱 Technical Skills - Java, Python, C, C++ (Basic), HTML5, CSS3, JavaScript.
 
 
 <br>
