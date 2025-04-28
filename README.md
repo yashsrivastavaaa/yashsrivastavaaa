@@ -33,8 +33,7 @@ Visual Studio Code
 - 🏆 Got 93.33% in PCM [2K22 Passout] .
 - ⌛ Class 10th & 12th from Vanita Public School (Varanasi)
 
-
-<br>
+---
 
 <h2 align = "center">💻 Projects  </h2>
 
@@ -58,12 +57,12 @@ Visual Studio Code
   <h2>🔗 Profiles</h2>
   <ul>
     <li>
-      <strong>LinkedIn:</strong>
-      <a href="https://www.linkedin.com/in/yashsrivastavaaaaa/" target="_blank">linkedin.com/in/yourusername</a>
+      <strong>LinkedIn : </strong>
+      <a href="https://www.linkedin.com/in/yashsrivastavaaaaa/" target="_blank">@yashsrivastavaaaaa</a>
     </li>
     <li>
-      <strong>LeetCode:</strong>
-      <a href="https://leetcode.com/u/yashsrivns/" target="_blank">leetcode.com/yourusername</a>
+      <strong>LeetCode : </strong>
+      <a href="https://leetcode.com/u/yashsrivns/" target="_blank">@yashsrivns</a>
     </li>
   </ul>
 </section>
